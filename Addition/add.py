@@ -2,8 +2,8 @@
 # How to code 'Addition_of_two_numbers'
 
 print('Coded by: @EdwinMcCoy')
-a = int(input('Enter the number: ))
-b = int(input('Enter the number: ))
+a = int(input('Enter the number: '))
+b = int(input('Enter the number: '))
 c = a + b
 print'Sum of both the number is: ',c
               

@@ -5,7 +5,7 @@ print('Coded by: @EdwinMcCoy')
 a = int(input('Enter the number: '))
 b = int(input('Enter the number: '))
 c = a + b
-print'Sum of both the number is: ',c
+print('Sum of both the number is: ',c)
               
 # Code Done
 # Start Python Shell
@@ -13,3 +13,5 @@ print'Sum of both the number is: ',c
 # Run this file
 # Enter the number
 # You'll get answer!
+
+# variable 'a' stands for number (1), variable 'b' stands for number '2', number 1 + number 2 = number 'c'.

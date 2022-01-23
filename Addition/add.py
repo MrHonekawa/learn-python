@@ -15,3 +15,4 @@ print('Sum of both the number is: ',c)
 # You'll get answer!
 
 # variable 'a' stands for number (1), variable 'b' stands for number '2', number 1 + number 2 = number 'c'.
+# fall back, this file cannot, answer you 'addition' of decimals of number.
